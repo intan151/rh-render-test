@@ -1,0 +1,90 @@
+{
+  "scenes": [
+    {
+      "name": "hook",
+      "chunks": [
+        0,
+        1
+      ]
+    },
+    {
+      "name": "pembuka",
+      "chunks": [
+        1,
+        4
+      ]
+    },
+    {
+      "name": "kenapa",
+      "chunks": [
+        4,
+        7
+      ]
+    },
+    {
+      "name": "langkah1",
+      "chunks": [
+        7,
+        11
+      ]
+    },
+    {
+      "name": "langkah2",
+      "chunks": [
+        11,
+        15
+      ]
+    },
+    {
+      "name": "langkah3",
+      "chunks": [
+        15,
+        19
+      ]
+    },
+    {
+      "name": "latihan",
+      "chunks": [
+        19,
+        23
+      ]
+    },
+    {
+      "name": "penutup",
+      "chunks": [
+        23,
+        27
+      ]
+    }
+  ],
+  "pause_after": "p20",
+  "scene_of": [
+    "hook",
+    "pembuka",
+    "pembuka",
+    "pembuka",
+    "kenapa",
+    "kenapa",
+    "kenapa",
+    "langkah1",
+    "langkah1",
+    "langkah1",
+    "langkah1",
+    "langkah2",
+    "langkah2",
+    "langkah2",
+    "langkah2",
+    "langkah3",
+    "langkah3",
+    "langkah3",
+    "langkah3",
+    "latihan",
+    "latihan",
+    "latihan",
+    "latihan",
+    "penutup",
+    "penutup",
+    "penutup",
+    "penutup"
+  ]
+}

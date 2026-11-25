@@ -1,0 +1,199 @@
+{
+  "voice": "avocado_v2:MAI_03",
+  "language": "id",
+  "speed": 95,
+  "pause_after": "p20",
+  "pause_secs": 15.0,
+  "total": 221.16,
+  "segments": [
+    {
+      "id": "p00",
+      "start": 0.0,
+      "end": 6.36,
+      "duration": 6.36,
+      "text": "Minggu malam, akhir pekan belum selesai. Tapi kepalamu sudah masuk hari Senin."
+    },
+    {
+      "id": "p01",
+      "start": 6.36,
+      "end": 19.32,
+      "duration": 12.96,
+      "text": "Coba ingat Minggu malam kemarin. Sore masih santai, makan malam masih enak, tapi begitu jam menunjukkan pukul delapan, ada yang berubah. Dadamu terasa berat, pikiranmu mulai berlari, dan Senin yang masih besok terasa sudah ada di depan mata."
+    },
+    {
+      "id": "p02",
+      "start": 19.32,
+      "end": 32.616,
+      "duration": 13.296,
+      "text": "Kamu mulai membayangkan semuanya sekaligus: rapat pagi, tumpukan tugas, pesan yang belum dibalas, dan semua hal yang mungkin tidak berjalan lancar. Padahal Senin belum datang, tapi tubuhmu sudah tegang seolah-olah hari itu sudah dimulai."
+    },
+    {
+      "id": "p03",
+      "start": 32.616,
+      "end": 38.304,
+      "duration": 5.688,
+      "text": "Kalau ini terasa familiar, kamu tidak sendiri — banyak orang merasakan hal yang sama setiap Minggu malam."
+    },
+    {
+      "id": "p04",
+      "start": 38.304,
+      "end": 49.296,
+      "duration": 10.992,
+      "text": "Kenapa ini terjadi? Karena otakmu tidak suka ketidakpastian. Senin terasa seperti kotak tertutup: kamu tidak tahu apa yang menunggu di dalamnya, jadi otakmu mengisinya dengan bayangan terburuk supaya kamu siap."
+    },
+    {
+      "id": "p05",
+      "start": 49.296,
+      "end": 60.576,
+      "duration": 11.28,
+      "text": "Masalahnya, bayangan itu hampir selalu lebih berat daripada kenyataannya. Rapat yang kamu takutkan mungkin hanya lima belas menit. Tugas yang menumpuk mungkin bisa diselesaikan satu per satu."
+    },
+    {
+      "id": "p06",
+      "start": 60.576,
+      "end": 68.232,
+      "duration": 7.656,
+      "text": "Dan Minggu malam adalah saat pertama kamu benar-benar diam — begitu diam, semua pikiran yang tertunda muncul sekaligus."
+    },
+    {
+      "id": "p07",
+      "start": 68.232,
+      "end": 71.4,
+      "duration": 3.168,
+      "text": "Langkah pertama: tutup Minggu dengan satu kalimat."
+    },
+    {
+      "id": "p08",
+      "start": 71.4,
+      "end": 78.0,
+      "duration": 6.6,
+      "text": "Sebelum tidur Minggu malam, tulis atau ucapkan satu kalimat ini: \"Mingguku sudah cukup, dan Senin bisa menunggu sampai besok.\""
+    },
+    {
+      "id": "p09",
+      "start": 78.0,
+      "end": 88.392,
+      "duration": 10.392,
+      "text": "Kalimat ini sederhana, tapi penting. Dia memberi tahu otakmu bahwa akhir pekan sudah selesai dengan baik, dan kamu tidak perlu menghabiskan sisa malam untuk mengulang hari Senin di kepala."
+    },
+    {
+      "id": "p10",
+      "start": 88.392,
+      "end": 95.16,
+      "duration": 6.768,
+      "text": "Kalau pikiran tentang Senin muncul lagi setelah itu, jawab pelan-pelan: \"Besok saja. Sekarang waktunya istirahat.\""
+    },
+    {
+      "id": "p11",
+      "start": 95.16,
+      "end": 98.496,
+      "duration": 3.336,
+      "text": "Langkah kedua: siapkan satu hal kecil untuk Senin."
+    },
+    {
+      "id": "p12",
+      "start": 98.496,
+      "end": 108.312,
+      "duration": 9.816,
+      "text": "Bukan seluruh rencana seminggu — satu hal saja. Tuliskan tugas pertama yang akan kamu kerjakan Senin pagi, dan siapkan apa yang kamu butuhkan untuk itu malam ini."
+    },
+    {
+      "id": "p13",
+      "start": 108.312,
+      "end": 115.176,
+      "duration": 6.864,
+      "text": "Misalnya: \"Senin pagi, aku cuma membalas tiga pesan penting.\" Atau: \"Aku mulai dari tugas yang paling mudah.\""
+    },
+    {
+      "id": "p14",
+      "start": 115.176,
+      "end": 119.976,
+      "duration": 4.8,
+      "text": "Begitu Senin punya satu langkah yang jelas dan kecil, dia tidak lagi terasa seperti monster."
+    },
+    {
+      "id": "p15",
+      "start": 119.976,
+      "end": 122.832,
+      "duration": 2.856,
+      "text": "Langkah ketiga: buat Senin pagi yang ramah."
+    },
+    {
+      "id": "p16",
+      "start": 122.832,
+      "end": 131.088,
+      "duration": 8.256,
+      "text": "Pilih satu hal kecil yang menyenangkan untuk Senin pagi: teh favoritmu, lagu yang kamu suka di perjalanan, atau sepuluh menit duduk tenang sebelum membuka pesan kerja."
+    },
+    {
+      "id": "p17",
+      "start": 131.088,
+      "end": 140.256,
+      "duration": 9.168,
+      "text": "Senin tidak harus dimulai dengan terburu-buru dan tegang. Kalau lima belas menit pertamamu terasa tenang, sisa harimu punya peluang lebih besar untuk ikut tenang."
+    },
+    {
+      "id": "p18",
+      "start": 140.256,
+      "end": 144.624,
+      "duration": 4.368,
+      "text": "Ini caramu menyambut hari dengan lembut, bukan dengan tubuh yang sudah lelah."
+    },
+    {
+      "id": "p19",
+      "start": 144.624,
+      "end": 147.192,
+      "duration": 2.568,
+      "text": "Sekarang kita coba bareng-bareng. Enam puluh detik saja."
+    },
+    {
+      "id": "p20",
+      "start": 147.192,
+      "end": 156.192,
+      "duration": 9.0,
+      "text": "Tutup matamu sebentar kalau kamu mau. Tarik napas pelan... dan bayangkan Senin pagimu. Pilih satu tugas pertama yang kecil, dan ucapkan dalam hati: \"Itu saja dulu. Sisanya bisa menunggu.\""
+    },
+    {
+      "id": "p21",
+      "start": 171.192,
+      "end": 176.952,
+      "duration": 5.76,
+      "text": "*[Jeda 30 detik — biarkan penonton memilih satu tugas pertamanya. Tampilkan timer di layar.]*"
+    },
+    {
+      "id": "p22",
+      "start": 176.952,
+      "end": 183.024,
+      "duration": 6.072,
+      "text": "Sudah? Bagus. Kamu baru saja membuat Senin terasa lebih kecil — dan lebih mungkin untuk dihadapi."
+    },
+    {
+      "id": "p23",
+      "start": 183.024,
+      "end": 189.72,
+      "duration": 6.696,
+      "text": "Ingat, ya. Senin bisa menunggu sampai besok. Malam ini milikmu, dan kamu berhak menikmatinya sampai selesai."
+    },
+    {
+      "id": "p24",
+      "start": 189.72,
+      "end": 196.032,
+      "duration": 6.312,
+      "text": "Kamu tidak perlu menyelesaikan seminggu penuh di kepalamu malam ini. Satu langkah kecil besok pagi sudah cukup untuk memulai."
+    },
+    {
+      "id": "p25",
+      "start": 196.032,
+      "end": 209.496,
+      "duration": 13.464,
+      "text": "Video ini konten edukasi umum, bukan pengganti konseling. Kalau kecemasanmu sudah berat sampai mengganggu tidur dan harimu setiap minggu, jangan ragu untuk bicara dengan profesional. Itu bukan kelemahan. Itu cara kamu menjaga dirimu."
+    },
+    {
+      "id": "p26",
+      "start": 209.496,
+      "end": 221.16,
+      "duration": 11.664,
+      "text": "Coba tiga langkah ini Minggu malam nanti, lalu cerita di komentar: tugas pertama apa yang kamu pilih untuk Senin? Follow Ruang Healing buat pengingat tenang tiap hari. Aku di sini, menemanimu pelan-pelan. Sampai jumpa di video berikutnya."
+    }
+  ]
+}
